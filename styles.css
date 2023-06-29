@@ -15,6 +15,10 @@
     margin: 30 auto;
   }
   
+  section {
+    font-style: sans-serif;
+  }
+
   .Welcome {
     z-index: 1;
     margin-bottom: 5px;
