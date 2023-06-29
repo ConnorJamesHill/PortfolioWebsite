@@ -17,19 +17,14 @@
   
   .Welcome {
     z-index: 1;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 
   .head {
     z-index: 2;
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }
-
-  section {
-    margin-top: 2.5px;
-    margin-bottom: 2.5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 
   h1 {
