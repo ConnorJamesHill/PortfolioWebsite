@@ -22,6 +22,11 @@
     display: inline-block;
   }
 
+  .footdiv {
+    background-color: black;
+    color: white;
+  }
+
   .head {
     z-index: 1;
     margin-top: 20px;
