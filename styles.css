@@ -16,12 +16,14 @@
   }
   
   .Welcome {
+    display: inline;
     z-index: 2;
     margin-top: 20px;
     margin-bottom: 20px;
   }
 
   .head {
+    display: inline;
     z-index: 1;
     margin-top: 20px;
     margin-bottom: 20px;
