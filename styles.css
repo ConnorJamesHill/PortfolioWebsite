@@ -20,7 +20,7 @@
   }
   
   section {
-    font-style: sans-serif;
+    font-family: Helvetica;
   }
 
   .Welcome {
@@ -29,6 +29,7 @@
     border: 2px solid black;
     display: inline-block;
     align-items: center;
+    font-family: Helvetica;
   }
 
   .footdiv {
@@ -40,6 +41,7 @@
     z-index: 1;
     margin-top: 20px;
     margin-bottom: 20px;
+    font-family: Helvetica;
   }
 
   h1 {
