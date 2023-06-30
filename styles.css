@@ -5,7 +5,7 @@
   }
   
 .about4, .about5, .about6 {
-  font-weight: normal;
+  font-weight: 100;
 }
 
   header {
@@ -17,10 +17,6 @@
     align-items: center;
     top: 0;
     margin: 30 auto;
-  }
-  
-  section {
-    font-family: Helvetica;
   }
 
   .Welcome {
