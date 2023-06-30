@@ -71,7 +71,13 @@
     font-size: 2rem;
     text-align: center;
   }
-  
+
+  .about-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 8rem;
+  }
+
   .skills {
     display: flex;
     flex-wrap: wrap;
