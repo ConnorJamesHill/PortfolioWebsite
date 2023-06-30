@@ -36,7 +36,7 @@
     border: 2px solid black;
     display: inline-block;
     align-items: center;
-    font-family: Helvetica;
+    font-family: 'Times New Roman', Times, serif;
   }
 
   .footdiv {
