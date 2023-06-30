@@ -84,6 +84,8 @@
     color: #666;
     height: 10px;
     width: 17px;
+    border-radius: 5px;
+    box-sizing: border-box;
   }
 
   nav {
