@@ -10,12 +10,12 @@
   }
 
   #about5 {
-  font-weight: light;
+  font-weight: 100;
   font-size: min(5vw, 1.2em);
   }
 
   #about6 {
-  font-weight: bold;
+  font-weight: 100;
   font-size: min(5vw, 1.2em);
   }
 
@@ -36,7 +36,7 @@
     border: 2px solid black;
     display: inline-block;
     align-items: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Georgia', Georgia, serif;
   }
 
   .footdiv {
