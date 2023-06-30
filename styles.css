@@ -5,17 +5,17 @@
   }
   
   #about4 {
-  font-weight: 100;
+  font-weight: normal;
   font-size: min(5vw, 1.2em);
   }
 
   #about5 {
-  font-weight: 100;
+  font-weight: light;
   font-size: min(5vw, 1.2em);
   }
 
   #about6 {
-  font-weight: 100;
+  font-weight: bold;
   font-size: min(5vw, 1.2em);
   }
 
