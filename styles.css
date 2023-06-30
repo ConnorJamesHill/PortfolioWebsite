@@ -4,17 +4,20 @@
     }
   }
   
-.about4 {
+  .about4 {
   font-weight: 100;
-}
+  font-size: min(5vw, 1.2em);
+  }
 
-.about5 {
+  .about5 {
   font-weight: 100;
-}
+  font-size: min(5vw, 1.2em);
+  }
 
-.about6 {
+  .about6 {
   font-weight: 100;
-}
+  font-size: min(5vw, 1.2em);
+  }
 
   header {
     width: 100%;
