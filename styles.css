@@ -86,7 +86,6 @@
 
   .skills {
     display: flex;
-    flex-wrap: wrap;
   }
 
   .skills_skill {
