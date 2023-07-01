@@ -11,7 +11,6 @@
   }
 
   #welc-about {
-    text-align: center;
     justify-content: center;
   }
 
@@ -44,7 +43,7 @@
   font-size: 1rem;
   }
 
-  .welcome-section {
+  #welcome-section {
     align-items: center;
     justify-content: center;
     display:inline-block;
