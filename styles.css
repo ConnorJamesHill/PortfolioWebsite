@@ -124,6 +124,10 @@
     cursor: pointer;
   }
 
+  .abouts {
+    margin: 10px;
+  }
+
   nav {
     width: 50%;
     max-width: 300px;
