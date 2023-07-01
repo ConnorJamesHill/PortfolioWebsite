@@ -99,7 +99,7 @@
     box-sizing: border-box;
     margin: 20px;
     min-height: 40px;
-    width: 80px;
+    min-width: 50px;
     justify-content: start;
     align-items: center;
     border: 2px solid black;
