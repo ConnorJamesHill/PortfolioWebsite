@@ -47,7 +47,6 @@
   #welcome-section {
     align-items: center;
     justify-content: center;
-    display:inline-block;
     margin: 5px;
     border: 2px solid black;
     font-family: 'Georgia', Georgia, serif;
