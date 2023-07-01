@@ -94,7 +94,7 @@
   .skills_skill {
     font-size: 1rem;
     font-weight: 600;
-    color: lightgray;
+    color: black;
     border-radius: 5px;
     box-sizing: border-box;
     margin: 20px;
@@ -103,7 +103,7 @@
     justify-content: space-between;
     align-items: center;
     border: 2px solid black;
-    background-color: blueviolet;
+    background-color: lightgray;
   }
 
   .skills_skill:hover {
@@ -116,7 +116,7 @@
     min-height: 40px;
     min-width: 100px;
     color: black;
-    background-color: lightgray;
+    background-color: #f1be32;
   }
 
   .contact-button:hover {
