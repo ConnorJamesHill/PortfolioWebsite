@@ -12,6 +12,7 @@
 
   #welc-about {
     justify-content: center;
+    text-align: center;
   }
 
   #about1 {
@@ -47,6 +48,10 @@
     align-items: center;
     justify-content: center;
     display:inline-block;
+    margin: 5px;
+    border: 2px solid black;
+    display: inline-block;
+    font-family: 'Georgia', Georgia, serif;
   }
 
   header {
@@ -58,13 +63,6 @@
     align-items: center;
     top: 0;
     margin: 0 auto;
-  }
-
-  .Welcome {
-    margin-bottom: 5px;
-    border: 2px solid black;
-    display: inline-block;
-    font-family: 'Georgia', Georgia, serif;
   }
 
   .footdiv {
