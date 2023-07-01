@@ -44,7 +44,7 @@
   font-size: 1rem;
   }
 
-  #welcome-section {
+  .welcome-section {
     align-items: center;
     justify-content: center;
   }
@@ -89,6 +89,7 @@
     flex-wrap: wrap;
     border: 2px solid red;
     justify-content: space-between;
+    margin: 5px;
   }
 
   .skills_skill {
