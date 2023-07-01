@@ -55,7 +55,7 @@
     height: 75px;
     background-color: #1b1b32;
     display: inline-block;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     top: 0;
     margin: 0 auto;
