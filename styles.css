@@ -93,6 +93,20 @@
     grid-gap: 2rem;
   }
 
+  .project-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
+  }
+
+  .project-left-container {
+    min-height: 700px;
+  }
+
+  .project-right-container {
+    min-height: 700px;
+  }
+
   .skills {
     display: flex;
     flex-wrap: wrap;
