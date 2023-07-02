@@ -3,7 +3,7 @@
       scroll-behavior: smooth;
     }
   }
-  
+
   #welc-about1 {
     font-size: 2.8rem;
     text-align: center;
@@ -146,6 +146,10 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 2rem;
+  }
+
+  .p1p {
+    border: 2px solid black;
   }
 
   .skills {
