@@ -127,6 +127,7 @@
     color: black;
     background-color: #f1be32;
     border-radius: 7.5px;
+    text-align: center;
   }
 
   .contact-button:hover {
@@ -140,6 +141,7 @@
 
   .copyright {
     justify-content: center;
+    text-align: center;
     padding-bottom: 10px;
   }
 
