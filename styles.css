@@ -94,6 +94,7 @@
   }
 
   .project-1-container {
+    align-items: center;
     min-height: 200px;
     min-width: 51%;
     display: grid;
@@ -102,6 +103,7 @@
   }
 
   .project-2-container {
+    align-items: center;
     min-height: 200px;
     min-width: 51%;
     display: grid;
@@ -110,6 +112,7 @@
   }
 
   .project-3-container {
+    align-items: center;
     min-height: 200px;
     min-width: 51%;
     display: grid;
@@ -118,6 +121,7 @@
   }
 
   .project-4-container {
+    align-items: center;
     min-height: 200px;
     min-width: 51%;
     display: grid;
@@ -126,6 +130,7 @@
   }
 
   .project-5-container {
+    align-items: center;
     min-height: 200px;
     min-width: 51%;
     display: grid;
