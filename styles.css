@@ -103,8 +103,24 @@
     min-height: 700px;
   }
 
-  .project-right-container {
-    min-height: 700px;
+  .project-1-container {
+    min-height: 200px;
+  }
+
+  .project-2-container {
+    min-height: 200px;
+  }
+
+  .project-3-container {
+    min-height: 200px;
+  }
+
+  .project-4-container {
+    min-height: 200px;
+  }
+
+  .project-5-container {
+    min-height: 200px;
   }
 
   .skills {
