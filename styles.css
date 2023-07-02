@@ -65,7 +65,7 @@
     margin: 0 auto;
   }
 
-  .Welcome {
+  .About-mee {
     max-height: 2000px;
     min-height: 700px;
   }
@@ -90,7 +90,7 @@
   .about-section {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 4rem;
+    grid-gap: 2rem;
   }
 
   .skills {
