@@ -90,7 +90,7 @@
   .about-section {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 8rem;
+    grid-gap: 4rem;
   }
 
   .skills {
