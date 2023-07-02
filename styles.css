@@ -65,6 +65,11 @@
     margin: 0 auto;
   }
 
+  .Welcome {
+    max-height: 2000px;
+    min-height: 700px;
+  }
+
   .footer {
     background-color: black;
     color: white;
