@@ -95,6 +95,7 @@
 
   .project-1-container {
     justify-content: center;
+    text-align: center;
     align-items: center;
     min-height: 200px;
     min-width: 51%;
@@ -105,6 +106,7 @@
 
   .project-2-container {
     justify-content: center;
+    text-align: center;
     align-items: center;
     min-height: 200px;
     min-width: 51%;
@@ -115,6 +117,7 @@
 
   .project-3-container {
     justify-content: center;
+    text-align: center;
     align-items: center;
     min-height: 200px;
     min-width: 51%;
@@ -125,6 +128,7 @@
 
   .project-4-container {
     justify-content: center;
+    text-align: center;
     align-items: center;
     min-height: 200px;
     min-width: 51%;
@@ -135,6 +139,7 @@
 
   .project-5-container {
     justify-content: center;
+    text-align: center;
     align-items: center;
     min-height: 200px;
     min-width: 51%;
