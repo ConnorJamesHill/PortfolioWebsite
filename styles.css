@@ -133,6 +133,8 @@
     background-color: #f1be32;
     border-radius: 7.5px;
     text-align: center;
+    font-size: 1.2rem;
+    padding: 20px;
   }
 
   .contact-button:hover {
