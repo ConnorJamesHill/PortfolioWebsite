@@ -99,28 +99,39 @@
     grid-gap: 2rem;
   }
 
-  .project-left-container {
-    min-height: 700px;
-  }
-
   .project-1-container {
     min-height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
   }
 
   .project-2-container {
     min-height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
   }
 
   .project-3-container {
     min-height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
   }
 
   .project-4-container {
     min-height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
   }
 
   .project-5-container {
     min-height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
   }
 
   .skills {
