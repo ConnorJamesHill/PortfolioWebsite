@@ -93,6 +93,7 @@
     flex-wrap: wrap;
     border: 2px solid red;
     justify-content: space-between;
+    align-items: flex-start;
     margin: 5px;
   }
 
