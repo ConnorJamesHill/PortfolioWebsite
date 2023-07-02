@@ -65,9 +65,15 @@
     margin: 0 auto;
   }
 
-  .footdiv {
+  .footer {
     background-color: black;
     color: white;
+  }
+
+  .above-bar-footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 8rem 0;
   }
 
   h1 {
