@@ -115,6 +115,10 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
 
+  .socials {
+    text-transform: uppercase;
+  }
+
   .contact-button {
     border: 2px solid black;
     margin: 20px 20px 20px 5px;
