@@ -13,6 +13,10 @@
     padding: 8rem 0;
   }
 
+  #about-me {
+    padding: 8rem 0;
+  }
+
   #welc-about1 {
     font-size: 2.8rem;
     text-align: center;
@@ -61,6 +65,7 @@
     font-family: 'Georgia', Georgia, serif;
     min-height: 300px;
     max-height: 2000px;
+    padding: 8rem 0;
   }
 
   header {
