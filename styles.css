@@ -5,7 +5,7 @@
   }
 
   .form {
-    box-shadow: 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
   }
 
   #welc-about1 {
@@ -238,7 +238,7 @@
   }
   
   nav > ul {
-    display: flex-end;
+    display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
     align-items: center;
