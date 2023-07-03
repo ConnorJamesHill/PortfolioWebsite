@@ -69,6 +69,7 @@
   #welcome-section {
     align-items: center;
     justify-content: center;
+    text-align: center;
     border: 2px solid black;
     font-family: 'Georgia', Georgia, serif;
     min-height: 300px;
