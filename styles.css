@@ -238,7 +238,7 @@
   }
   
   nav > ul {
-    display: flex;
+    display: flex-end;
     justify-content: space-evenly;
     flex-wrap: wrap;
     align-items: center;
