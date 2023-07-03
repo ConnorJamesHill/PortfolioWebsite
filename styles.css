@@ -36,14 +36,14 @@
     justify-content: center;
     text-align: center;
     padding-bottom: 2rem;
-    line-height: 1.0;
+    line-height: 1.5;
   }
 
   #about1 {
     text-align: center;
     justify-content: center;
     align-items: center;
-    line-height: 1.0;
+    line-height: 1.5;
   }
 
   #about2 {
@@ -52,25 +52,25 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    line-height: 1.0;
+    line-height: 1.5;
   }
 
   #about4 {
   font-weight: normal;
   font-size: 1.2rem;
-  line-height: 1.0;
+  line-height: 1.5;
   }
 
   #about5 {
   font-weight: 100;
   font-size: 1.2rem;
-  line-height: 1.0;
+  line-height: 1.5;
   }
 
   #about6 {
   font-weight: 100;
   font-size: 1.2rem;
-  line-height: 1.0;
+  line-height: 1.5;
   }
 
   #welcome-section {
