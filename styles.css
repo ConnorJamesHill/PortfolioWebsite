@@ -18,12 +18,13 @@
   }
 
   #welcome-button {
+    text-align: center;
     align-items: center;
     justify-content: center;
   }
 
   #welc-about1 {
-    font-size: 4.0rem;
+    font-size: 3.5rem;
     text-align: center;
     justify-content: center;
     line-height: 1.0;
