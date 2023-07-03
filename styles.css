@@ -77,6 +77,7 @@
   .About-mee {
     max-height: 2000px;
     min-height: 300px;
+    padding: 0 75px;
   }
 
   .footer {
