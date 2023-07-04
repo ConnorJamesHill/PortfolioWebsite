@@ -10,7 +10,7 @@
 
   section {
     display: block;
-    padding: 8rem 0;
+    padding: 8rem 5rem;
   }
 
   #about {
@@ -98,7 +98,6 @@
   .About-mee {
     max-height: 2000px;
     min-height: 300px;
-    padding: 0 3rem;
   }
 
   .footer {
