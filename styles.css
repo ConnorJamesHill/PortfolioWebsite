@@ -44,6 +44,8 @@
   }
 
   #about1 {
+    font-size: 3rem;
+    letter-spacing: 3px;
     font-weight: strong;
     text-align: center;
     justify-content: center;
