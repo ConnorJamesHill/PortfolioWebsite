@@ -120,6 +120,7 @@
   }
 
   #welcome-section {
+    background-image: linear-gradient(to bottom right, blue, white);
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -281,6 +282,10 @@
 
   .socials {
     text-transform: uppercase;
+  }
+
+  .contact {
+    background-image: linear-gradient(to bottom right, blue, white);
   }
 
   .contact-button {
