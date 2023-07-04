@@ -19,7 +19,7 @@
   }
 
   #welcome-button {
-    background-image: linear-gradient(to bottom right, blue, white);
+    background-image: lightblue;
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -296,7 +296,7 @@
     min-height: 80px;
     min-width: 100px;
     color: black;
-    background-color: #1b1b44;
+    background-color: lightblue;
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
