@@ -22,6 +22,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #welc-about1 {
@@ -29,6 +30,7 @@
     text-align: center;
     justify-content: center;
     line-height: 1.0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #welc-about {
@@ -37,6 +39,7 @@
     text-align: center;
     padding-bottom: 2rem;
     line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #about1 {
@@ -44,6 +47,7 @@
     justify-content: center;
     align-items: center;
     line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #about2 {
@@ -53,18 +57,21 @@
     justify-content: center;
     align-items: center;
     line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #about4 {
   font-weight: normal;
   font-size: 1.2rem;
   line-height: 1.5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #about5 {
   font-weight: 100;
   font-size: 1.2rem;
   line-height: 1.5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #about6 {
@@ -72,6 +79,7 @@
   font-size: 1.2rem;
   line-height: 1.5;
   padding-bottom: 1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #welcome-section {
