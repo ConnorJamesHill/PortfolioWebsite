@@ -5,7 +5,8 @@
   }
 
   .form {
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
   }
 
   section {
@@ -121,12 +122,14 @@
   .footer {
     background-color: black;
     color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   .above-bar-footer {
     display: flex;
     justify-content: space-between;
     padding: 8rem 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   h1 {
@@ -225,6 +228,7 @@
     flex-wrap: wrap;
     border: 2px solid red;
     margin: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   .skills_skill {
