@@ -42,7 +42,7 @@
     align-items: center;
     justify-content: center;
     border-radius: 5px;
-    min-width: 1.0rem;
+    min-width: 3.0rem;
     max-width: 8rem;
     min-height: .5rem;
     background-color: #1b1b44;
@@ -56,7 +56,7 @@
     border-radius: 5px;
     min-width: 18.0rem;
     max-width: 40rem;
-    height: .05rem;
+    height: .025rem;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
