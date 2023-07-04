@@ -44,6 +44,7 @@
   }
 
   #about1 {
+    font-weight: normal;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -62,6 +63,7 @@
   }
 
   #about3 {
+    font-weight: normal;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -77,14 +79,14 @@
   }
 
   #about5 {
-  font-weight: 100;
+    font-weight: normal;
   font-size: 1.2rem;
   line-height: 1.5;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #about6 {
-  font-weight: 100;
+    font-weight: normal;
   font-size: 1.2rem;
   line-height: 1.5;
   padding-bottom: 1rem;
