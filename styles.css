@@ -41,8 +41,9 @@
     justify-content: center;
     border-radius: 5px;
     min-width: 1.0rem;
+    max-width: 4rem;
     min-height: .5rem;
-    background-color: lightskyblue;
+    background-color: #1b1b44;
     margin-left: auto;
     margin-right: auto;
   }
@@ -163,7 +164,7 @@
   }
 
   h1 {
-    color: lightskyblue;
+    color: #1b1b44;
     font-size: 2rem;
     text-align: center;
   }
@@ -256,7 +257,7 @@
   .skills {
     display: flex;
     flex-wrap: wrap;
-    border: 2px solid lightskyblue;
+    border: 2px solid #1b1b44;
     margin: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
@@ -295,7 +296,7 @@
     min-height: 80px;
     min-width: 100px;
     color: black;
-    background-color: lightskyblue;
+    background-color: #1b1b44;
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
