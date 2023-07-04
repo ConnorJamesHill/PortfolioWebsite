@@ -34,6 +34,12 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
+  .barz {
+    width: 1.5rem;
+    height: .25rem;
+    background-color: lightskyblue;
+  }
+
   #welc-about {
     font-size: 1.3rem;
     justify-content: center;
@@ -65,6 +71,7 @@
   }
 
   #about3 {
+    font-size: 1.75rem;
     font-weight: strong;
     text-align: center;
     justify-content: center;
