@@ -42,6 +42,7 @@
     height: .5rem;
     background-color: lightskyblue;
     position: relative;
+    display: block;
   }
 
   .bar {
@@ -49,9 +50,10 @@
     justify-content: center;
     border-radius: 5px;
     width: 8.0rem;
-    height: .15rem;
+    height: .05rem;
     background-color: white;
     position: relative;
+    display: block;
   }
 
   #welc-about {
