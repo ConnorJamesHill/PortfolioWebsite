@@ -27,20 +27,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
-  .contact-button {
-    border: 2px solid black;
-    margin: 20px 20px 20px 5px;
-    min-height: 80px;
-    max-height: 80px;
-    min-width: 100px;
-    max-width: 100px;
-    color: black;
-    background-color: lightblue;
-    border-radius: 7.5px;
-    text-align: center;
-    font-size: 1.2rem;
-    padding: 8px 50px;
-  }
+
 
   #welc-about1 {
     color: #1b1b44;
@@ -309,7 +296,9 @@
     border: 2px solid black;
     margin: 20px 20px 20px 5px;
     min-height: 80px;
+    max-height: 100px;
     min-width: 100px;
+    max-width: 200px;
     color: black;
     background-color: lightblue;
     border-radius: 7.5px;
