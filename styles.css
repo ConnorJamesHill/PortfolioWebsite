@@ -14,6 +14,48 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
   }
 
+  .name-label {
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+    display: block;
+    text-align: left;
+  }
+
+  .name-input {
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 2rem;
+  }
+
+  .email-label {
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+    display: block;
+    text-align: left;
+  }
+
+  .email-input {
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 2rem;
+  }
+
+  .message-label {
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+    display: block;
+    text-align: left;
+  }
+
+  .message-input {
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 2rem;
+  }
+
   section {
     display: block;
     padding: 8rem 5rem;
