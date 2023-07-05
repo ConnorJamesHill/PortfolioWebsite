@@ -30,7 +30,7 @@
     padding: 2rem;
     font-weight: 600;
     border-radius: 5px;
-    background: rgb(69, 106, 216);
+    background: rgba(85, 100, 144, 0.475);
   }
 
   .email-label {
