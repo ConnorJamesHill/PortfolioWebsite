@@ -112,6 +112,7 @@
     min-width: 15%;
     max-width: 10000px;
     display: block;
+    align-items: center;
     transition-duration: 0.3s;
     letter-spacing: 1px;
     text-transform: uppercase;
