@@ -436,6 +436,7 @@
 
   .contact-button {
     display: inline-block;
+    position: relative;
     min-height: 30px;
     max-height: 35px;
     min-width: 27.5%;
