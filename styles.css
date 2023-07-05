@@ -43,6 +43,8 @@
   }
 
   .submit-button {
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     white-space: nowrap;
     border: 2px solid black;
     margin: 2rem 20px 20px 5px;
@@ -95,6 +97,8 @@
   }
 
   #welcome-button {
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border: 2px solid black;
     margin: 20px 20px 20px 5px;
     min-height: 80px;
@@ -146,6 +150,7 @@
   }
 
   #welc-about {
+    font-weight: 500;
     font-size: 1.3rem;
     justify-content: center;
     text-align: center;
@@ -377,6 +382,8 @@
   }
 
   .contact-button {
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     white-space: nowrap;
     border: 2px solid black;
     margin: 20px 20px 20px 5px;
