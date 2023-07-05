@@ -52,7 +52,7 @@
     letter-spacing: 1px;
     text-transform: uppercase;
     text-decoration: none;
-    transform: translate(0, .5rem);
+    transform: translate(0, 50px);
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -73,7 +73,7 @@
   }
 
   .submit-button:hover {
-    transform: translate(0, 1rem);
+    transform: translate(0, 50px);
   }
 
   .email-input {
@@ -115,7 +115,6 @@
     letter-spacing: 1px;
     text-transform: uppercase;
     text-decoration: none;
-    transition: transform .3s;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -134,7 +133,7 @@
   }
 
   #welcome-button {
-    transform: translate(0, 1rem);
+    transform: translate(0, 50px);
   }
 
   #welc-about1 {
@@ -438,7 +437,6 @@
     letter-spacing: 1px;
     text-transform: uppercase;
     text-decoration: none;
-    transition: transform .3s;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -458,12 +456,9 @@
   }
 
   .contact-button:hover {
-    transform: translate(0, 1rem);
-  }
-
-  .contact-button:hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     cursor: pointer;
+    transform: translate(0, 50px);
   }
 
   .abouts {
