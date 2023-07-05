@@ -561,7 +561,7 @@
   
   nav > ul > li {
     float:left;
-    min-width:25%;
+    min-width:24%;
     background:rgba(65, 109, 243, 0.305);;
     list-style:none;
     vertical-align:middle;
