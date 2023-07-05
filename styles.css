@@ -400,6 +400,12 @@
   }
 
   .socials {
+    font-size: 1.75rem;
+    font-weight: strong;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
   }
 
@@ -428,16 +434,6 @@
   .contact-button:hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     cursor: pointer;
-  }
-
-  .footer-name {
-    font-size: 1.1rem;
-    text-align: left;
-  }
-
-  .footer-description {
-    font-size: 1.1rem;
-    text-align: left;
   }
 
   .abouts {
