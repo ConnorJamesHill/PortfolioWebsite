@@ -20,6 +20,7 @@
 
   #welcome-button {
     background-image: lightblue;
+    display: inline-block;
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -295,6 +296,7 @@
   }
 
   .contact-button {
+    display: inline-block;
     border: 2px solid black;
     margin: 20px 20px 20px 5px;
     min-height: 80px;
