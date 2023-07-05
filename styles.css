@@ -444,8 +444,8 @@
 
   .contact-button {
     display: flex;
-    min-height: 50px;
-    max-height: 52px;
+    min-height: 45px;
+    max-height: 47.5px;
     min-width: 50%;
     max-width: 55%;
     padding: .25rem auto;
