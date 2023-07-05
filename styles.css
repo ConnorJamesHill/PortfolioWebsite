@@ -434,7 +434,6 @@
   }
 
   .contact-button {
-    transition: transform .3s;
     transition-duration: 0.3s;
     transition-timing-function: ease;
     transition-delay: 0s;
