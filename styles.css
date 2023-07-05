@@ -104,7 +104,7 @@
   }
 
   #nav {
-    overflow: scroll
+    position: fixed
   }
 
   section {
