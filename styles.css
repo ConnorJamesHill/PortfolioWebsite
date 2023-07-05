@@ -310,7 +310,9 @@
   }
 
   #projects {
-    padding: 0 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 3rem;
   }
 
   .about-section {
