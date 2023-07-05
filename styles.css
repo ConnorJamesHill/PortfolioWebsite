@@ -20,7 +20,7 @@
 
   #welcome-button {
     background-image: lightblue;
-    display: block;
+    display: flex;
     max-height: 20px;
     text-align: center;
     align-items: center;
