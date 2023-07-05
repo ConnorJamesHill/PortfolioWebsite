@@ -412,6 +412,16 @@
     cursor: pointer;
   }
 
+  .footer-name {
+    font-size: 1.1rem;
+    text-align: left;
+  }
+
+  .footer-description {
+    font-size: 1.1rem;
+    text-align: left;
+  }
+
   .abouts {
     margin: 10px;
   }
