@@ -112,6 +112,7 @@
     max-height: 300px;
     min-width: 5%;
     max-width: 35%;
+    padding: 8px auto;
     align-items: center;
     justify-content: center;
     transition-duration: 0.3s;
@@ -127,7 +128,7 @@
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
-    padding: 8px auto;
+    
   }
 
   #welcome-button:hover {
@@ -434,10 +435,14 @@
   }
 
   .contact-button {
-    min-height: 60px;
+    display: inline-block;
+    min-height: 15px;
     max-height: 300px;
-    min-width: 20%;
-    max-width: 10000px;
+    min-width: 5%;
+    max-width: 35%;
+    padding: 8px auto;
+    align-items: center;
+    justify-content: center;
     transition-duration: 0.3s;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -456,9 +461,7 @@
     background-color: blue;;
     border-radius: 7.5px;
     text-align: center;
-    display: block;
     font-size: 1.2rem;
-    padding: 8px 50px;
   }
 
   .contact-button:hover {
