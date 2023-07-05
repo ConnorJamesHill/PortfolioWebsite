@@ -103,6 +103,10 @@
     background: rgba(65, 109, 243, 0.305);
   }
 
+  #nav {
+    overflow: scroll
+  }
+
   section {
     display: block;
     padding: 8rem 5rem;
