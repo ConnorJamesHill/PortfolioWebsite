@@ -74,7 +74,7 @@
   }
 
   .submit-button:hover {
-    transform: translateY(-10px);
+    transform: translateY(-5px);
   }
 
   .email-input {
@@ -136,7 +136,7 @@
   }
 
   #welcome-button {
-    transform: translateY(-10px);
+    transform: translateY(-5px);
   }
 
   #welc-about1 {
@@ -463,7 +463,7 @@
   .contact-button:hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     cursor: pointer;
-    transform: translateY(-10px);
+    transform: translateY(-5px);
   }
 
   .abouts {
