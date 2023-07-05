@@ -111,14 +111,12 @@
     max-height: 300px;
     min-width: 5%;
     max-width: 35%;
-    display: block;
     align-items: center;
     justify-content: center;
     transition-duration: 0.3s;
     letter-spacing: 1px;
     text-transform: uppercase;
     text-decoration: none;
-    position: relative;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
