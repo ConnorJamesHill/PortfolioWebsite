@@ -559,7 +559,9 @@
     min-width:25%;
     color: white;
     background:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     list-style:none;
+    height: 2rem;
     vertical-align:middle;
   }
 
