@@ -5,7 +5,6 @@
   }
 
   .contact-paragraph {
-    background-color: lightgray;
     padding-bottom: 2rem;
   }
 
@@ -369,7 +368,7 @@
   }
 
   .contact {
-    background-image: linear-gradient(to bottom right, blue, white);
+    background-color: lightgray;
   }
 
   .contact-button {
