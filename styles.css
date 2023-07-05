@@ -50,10 +50,6 @@
 
   .submit-button {
     transition: transform .3s;
-    transition-duration: 0.3s;
-    transition-timing-function: ease;
-    transition-delay: 0s;
-    transition-property: transform;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -110,10 +106,6 @@
 
   #welcome-button {
     transition: transform .3s;
-    transition-duration: 0.3s;
-    transition-timing-function: ease;
-    transition-delay: 0s;
-    transition-property: transform;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -434,10 +426,6 @@
 
   .contact-button {
     transition: transform .3s;
-    transition-duration: 0.3s;
-    transition-timing-function: ease;
-    transition-delay: 0s;
-    transition-property: transform;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
