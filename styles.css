@@ -436,9 +436,9 @@
 
   .contact-button {
     display: inline-block;
-    min-height: 15px;
-    max-height: 300px;
-    min-width: 5%;
+    min-height: 30px;
+    max-height: 35px;
+    min-width: 27.5%;
     max-width: 35%;
     padding: 8px auto;
     align-items: center;
