@@ -504,6 +504,12 @@
     font-size: 1.2rem;
   }
 
+  .about-button:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    cursor: pointer;
+    transform: translateY(-5px);
+  }
+
   .abouts {
     margin: 10px;
   }
