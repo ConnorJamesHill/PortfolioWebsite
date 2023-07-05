@@ -4,6 +4,11 @@
     }
   }
 
+  .social-icons {
+    min-width: 10px;
+    min-height: 10px;
+  }
+
   .contact-paragraph {
     padding-bottom: 2rem;
   }
