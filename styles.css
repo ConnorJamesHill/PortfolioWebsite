@@ -212,6 +212,23 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
+  #about10 {
+    font-size: 1.75rem;
+    font-weight: strong;
+    text-align: left;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  #about11 {
+    font-weight: normal;
+    font-size: 1.2rem;
+    text-align: left;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
   #welcome-section {
     background-image: linear-gradient(to bottom right, blue, white);
     align-items: center;
