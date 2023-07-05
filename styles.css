@@ -107,7 +107,6 @@
   }
 
   #welcome-button {
-    display: inline-block;
     min-height: 100px;
     max-height: 300px;
     min-width: 35%;
