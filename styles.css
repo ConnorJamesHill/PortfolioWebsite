@@ -140,7 +140,7 @@
     background-color: rgba(65, 109, 243, 0.305);;
     margin-left: auto;
     margin-right: auto;
-    border-color: black;
+    border: 2px solid black;
   }
 
   .bar {
