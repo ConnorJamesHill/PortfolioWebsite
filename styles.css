@@ -107,12 +107,13 @@
   }
 
   #welcome-button {
-    min-height: 40px;
+    min-height: 15px;
     max-height: 300px;
     min-width: 15%;
     max-width: 10000px;
     display: block;
     align-items: center;
+    justify-content: center;
     transition-duration: 0.3s;
     letter-spacing: 1px;
     text-transform: uppercase;
