@@ -385,7 +385,7 @@
   .skills {
     display: flex;
     flex-wrap: wrap;
-    border: 2px solid #1b1b44;
+    border: 2px solid rgba(65, 109, 243, 0.305);
     margin: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
@@ -402,7 +402,7 @@
     min-width: 50px;
     justify-content: start;
     align-items: center;
-    border: 2px solid rgba(65, 109, 243, 0.305);
+    border: 2px solid black;
     background-color: lightgray;
   }
 
