@@ -555,11 +555,10 @@
   
   nav > ul > li {
     float:left;
-    min-width:23%;
+    min-width:24%;
     background:rgba(65, 109, 243, 0.305);;
     list-style:none;
     vertical-align:middle;
-    padding:15px;
   }
 
   li, nav > ul > a {
