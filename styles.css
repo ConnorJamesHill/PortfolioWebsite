@@ -21,7 +21,7 @@
   #welcome-button {
     background-image: lightblue;
     display: inline-block;
-    max-height: 2rem;
+    max-height: 1rem;
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -301,7 +301,7 @@
     border: 2px solid black;
     margin: 20px 20px 20px 5px;
     min-height: 80px;
-    max-height: 2rem;
+    max-height: 1rem;
     min-width: 100px;
     max-width: 200px;
     color: black;
