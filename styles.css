@@ -49,6 +49,7 @@
   }
 
   .submit-button {
+    transition-duration: 0.3s;
     letter-spacing: 1px;
     text-transform: uppercase;
     text-decoration: none;
@@ -73,7 +74,7 @@
   }
 
   .submit-button:hover {
-    transform: translate(0, 50px);
+    transform: translateY(-10px);
   }
 
   .email-input {
@@ -112,6 +113,7 @@
   }
 
   #welcome-button {
+    transition-duration: 0.3s;
     letter-spacing: 1px;
     text-transform: uppercase;
     text-decoration: none;
@@ -133,7 +135,7 @@
   }
 
   #welcome-button {
-    transform: translate(0, 50px);
+    transform: translateY(-10px);
   }
 
   #welc-about1 {
