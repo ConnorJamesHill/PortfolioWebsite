@@ -113,6 +113,8 @@
     min-width: 35%;
     max-width: 40%;
     padding: .25rem auto;
+    margin-left: 4rem;
+    margin-right: 4rem;
     vertical-align: middle;
     align-items: center;
     justify-content: center;
