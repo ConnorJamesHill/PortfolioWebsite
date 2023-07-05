@@ -65,7 +65,7 @@
     font-weight: 600;
     border-radius: 5px;
     padding: 2rem;
-    background: rgb(69, 106, 216);
+    background: rgba(65, 109, 243, 0.305);
   }
 
   .message-label {
@@ -82,7 +82,7 @@
     border-radius: 5px;
     padding: 2rem;
     width: 85%;
-    background: rgb(69, 106, 216);
+    background: rgba(65, 109, 243, 0.305);
   }
 
   section {
