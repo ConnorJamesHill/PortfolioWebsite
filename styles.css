@@ -265,6 +265,7 @@
   }
 
   .above-bar-footer {
+    margin-left: 3rem;
     display: flex;
     justify-content: space-between;
     padding: 8rem 0;
