@@ -134,6 +134,7 @@
   }
 
   #welc-about1 {
+    text-transform: uppercase;
     color: #1b1b44;
     font-size: 3.5rem;
     text-align: center;
@@ -232,6 +233,7 @@
   }
 
   #about10 {
+    text-transform: uppercase;
     font-size: 1.75rem;
     font-weight: strong;
     text-align: left;
