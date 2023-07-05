@@ -270,6 +270,14 @@
     grid-gap: 1rem;
   }
 
+  .above-bar-footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+
+
   .project-1-container {
     justify-content: center;
     text-align: center;
@@ -412,6 +420,7 @@
     justify-content: center;
     text-align: center;
     padding-bottom: 10px;
+    font-size: .5rem;
   }
 
   nav {
