@@ -137,7 +137,7 @@
     min-width: 6.0rem;
     max-width: 10rem;
     min-height: .5rem;
-    background-color: #1b1b44;
+    background-color: rgba(65, 109, 243, 0.305);;
     margin-left: auto;
     margin-right: auto;
   }
