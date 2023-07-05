@@ -49,6 +49,7 @@
   }
 
   .submit-button {
+    display: inline-block;
     transition-duration: 0.3s;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -113,6 +114,7 @@
   }
 
   #welcome-button {
+    display: inline-block;
     transition-duration: 0.3s;
     letter-spacing: 1px;
     text-transform: uppercase;
