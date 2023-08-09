@@ -397,8 +397,8 @@
 
   .p1p {
     border: 2px solid black;
-    height: 125px;
-    width: 90%;
+    height: 100%;
+    width: 100%;
   }
 
   .p2p {
