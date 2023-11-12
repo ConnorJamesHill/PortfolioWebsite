@@ -473,7 +473,7 @@
   }
 
   .contact {
-    background-image: linear-gradient(to bottom, blue, white);
+    background-image: linear-gradient(to top, blue, white);
   }
 
   .contact-button {
