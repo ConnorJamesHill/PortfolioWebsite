@@ -40,11 +40,12 @@
   }
 
   .contactLink {
-    color: #010134
+    color: #010134;
   }
 
   .contactLink:hover {
-    color: #000080
+    color: #000080;
+    transform: translateY(-5px);
   }
 
   .email-label {
