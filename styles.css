@@ -39,6 +39,14 @@
     background: rgba(65, 109, 243, 0.305);
   }
 
+  .contactLink {
+    color: #0047AB
+  }
+
+  .contactLink:hover {
+    color: #000080
+  }
+
   .email-label {
     margin-top: 1rem;
     font-weight: 700;
