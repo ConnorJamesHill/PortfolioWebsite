@@ -266,6 +266,10 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
+  .correctFont {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
   #about10 {
     text-transform: uppercase;
     font-size: 1.75rem;
