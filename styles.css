@@ -482,6 +482,195 @@
     background-position: 50% 50%;
   }
 
+  .project-9-container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 51%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .p9p {
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    background-image: na;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  .project-10-container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 51%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .p10p {
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    background-image: na;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  .project-11-container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 51%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .p11p {
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    background-image: na;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  .project-12-container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 51%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .p12p {
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    background-image: na;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  .project-13-container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 51%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .p13p {
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    background-image: na;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  .project-14-container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 51%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .p14p {
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    background-image: na;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  .project-15-container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 51%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .p15p {
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    background-image: na;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  .project-16-container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 51%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .p16p {
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    background-image: na;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
+  .project-17-container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 51%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .p17p {
+    border: 2px solid black;
+    height: 150px;
+    width: 100%;
+    background-image: na;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
+
   .p1p {
     border: 2px solid black;
     height: 150px;
