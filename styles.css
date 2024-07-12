@@ -4,6 +4,11 @@
     }
   }
 
+  img {
+    width: 2.5rem;
+    height: 7.5rem;
+  }
+
   .ss {
     min-width: 10px;
     min-height: 10px;
