@@ -104,6 +104,10 @@ section {
   font-size: 2.25rem;
 }
 
+.aboutSizer {
+  font-size: 0.95rem;
+}
+
 @media (min-width:481px) {
    /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
     .about3 {
@@ -138,6 +142,10 @@ section {
 
     .about1 {
       font-size: 2.5rem;
+    }
+
+    .aboutSizer {
+      font-size: 0.95rem;
     }
 }
 
@@ -176,6 +184,10 @@ section {
     .about1 {
       font-size: 2.5rem;
     }
+
+    .aboutSizer {
+      font-size: 0.95rem;
+    }
 }
 
 @media (min-width:961px) { 
@@ -212,6 +224,10 @@ section {
 
     .about1 {
       font-size: 2.5rem;
+    }
+
+    .aboutSizer {
+      font-size: 0.95rem;
     }
 }
 
@@ -250,6 +266,10 @@ section {
     .about1 {
       font-size: 2.75rem;
     }
+
+    .aboutSizer {
+      font-size: 1.2rem;
+    }
 }
 
 @media (min-width:1281px) { 
@@ -286,6 +306,10 @@ section {
 
     .about1 {
       font-size: 3rem;
+    }
+
+    .aboutSizer {
+      font-size: 1.2rem;
     }
 }
 
@@ -500,7 +524,6 @@ section {
 
   #about2 {
     font-weight: normal;
-    font-size: 1.2rem;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -519,21 +542,18 @@ section {
 
   #about4 {
   font-weight: normal;
-  font-size: 1.2rem;
   line-height: 1.5;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #about5 {
   font-weight: normal;
-  font-size: 1.2rem;
   line-height: 1.5;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   #about6 {
   font-weight: normal;
-  font-size: 1.2rem;
   line-height: 1.5;
   padding-bottom: 1rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
