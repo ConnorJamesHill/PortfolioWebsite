@@ -671,8 +671,8 @@ section {
     justify-content: center;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    min-height: 20rem;
-    max-height: 30rem;
+    min-height: 30rem;
+    max-height: 40rem;
   }
 
   .About-mee {
