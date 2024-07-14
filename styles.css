@@ -108,6 +108,10 @@ section {
   font-size: 0.95rem;
 }
 
+.welc-about1 {
+  font-size: 3.35rem;
+}
+
 @media (min-width:481px) {
    /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
     .about3 {
@@ -146,6 +150,10 @@ section {
 
     .aboutSizer {
       font-size: 0.95rem;
+    }
+
+    .welc-about1 {
+      font-size: 3.0rem;
     }
 }
 
@@ -188,6 +196,10 @@ section {
     .aboutSizer {
       font-size: 0.95rem;
     }
+
+    .welc-about1 {
+      font-size: 3.0rem;
+    }
 }
 
 @media (min-width:961px) { 
@@ -228,6 +240,10 @@ section {
 
     .aboutSizer {
       font-size: 0.95rem;
+    }
+
+    .welc-about1 {
+      font-size: 3.0rem;
     }
 }
 
@@ -270,6 +286,10 @@ section {
     .aboutSizer {
       font-size: 1.2rem;
     }
+
+    .welc-about1 {
+      font-size: 3.5rem;
+    }
 }
 
 @media (min-width:1281px) { 
@@ -310,6 +330,10 @@ section {
 
     .aboutSizer {
       font-size: 1.2rem;
+    }
+
+    .welc-about1 {
+      font-size: 3.5rem;
     }
 }
 
@@ -470,7 +494,6 @@ section {
   #welc-about1 {
     text-transform: uppercase;
     color: #1b1b44;
-    font-size: 3.5rem;
     text-align: center;
     justify-content: center;
     line-height: 1.0;
