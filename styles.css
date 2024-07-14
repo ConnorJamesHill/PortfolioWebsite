@@ -1056,7 +1056,7 @@ section {
     display: flex;
     flex-wrap: wrap;
     border: 2px solid rgba(65, 109, 243, 0.305);
-    margin: 5px;
+    margin: (5px, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
