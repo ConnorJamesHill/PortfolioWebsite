@@ -116,8 +116,11 @@ section {
   padding-top: 3rem;
 }
 
-.about-section {
+.aboutContainer {
   width: 100%;
+}
+
+.about-section {
   margin: 0;
   padding-left: 0;
   padding-right: 0;
