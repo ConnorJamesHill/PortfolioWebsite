@@ -117,7 +117,8 @@ section {
 }
 
 .about-section {
-  margin: -2rem;
+  width: 100%;
+  margin: 0;
   padding-left: 0;
   padding-right: 0;
   display: grid;
