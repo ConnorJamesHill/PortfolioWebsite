@@ -136,6 +136,10 @@ section {
   vertical-align: middle;
 }
 
+.aboutSizer2 {
+  font-size: 0.75rem;
+}
+
 @media (min-width:481px) {
    /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
     .about3 {
@@ -186,6 +190,10 @@ section {
 
     .welcome {
       padding: 4rem 2rem;
+    }
+
+    .aboutSizer2 {
+      font-size: 0.95rem;
     }
 }
 
@@ -240,6 +248,10 @@ section {
     .welcome {
       padding: 4rem 2rem;
     }
+
+    .aboutSizer2 {
+      font-size: 0.95rem;
+    }
 }
 
 @media (min-width:961px) { 
@@ -292,6 +304,10 @@ section {
 
     .welcome {
       padding: 6rem 3rem;
+    }
+
+    .aboutSizer2 {
+      font-size: 0.95rem;
     }
 }
 
@@ -346,6 +362,10 @@ section {
     .welcome {
       padding: 8rem 5rem;
     }
+
+    .aboutSizer2 {
+      font-size: 1.2rem;
+    }
 }
 
 @media (min-width:1281px) { 
@@ -398,6 +418,10 @@ section {
 
     .welcome {
       padding: 8rem 5rem;
+    }
+
+    .aboutSizer2 {
+      font-size: 1.2rem;
     }
 }
 
