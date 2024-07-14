@@ -129,7 +129,6 @@ section {
   padding-right: 0;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: .001rem;
 }
 
 .welcome {
