@@ -112,6 +112,13 @@ section {
   font-size: 3.35rem;
 }
 
+.about-section {
+  margin: 0 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+}
+
 @media (min-width:481px) {
    /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
     .about3 {
@@ -154,6 +161,10 @@ section {
 
     .welc-about1 {
       font-size: 3.0rem;
+    }
+
+    .about-section {
+      margin: 0 2rem;
     }
 }
 
@@ -200,6 +211,10 @@ section {
     .welc-about1 {
       font-size: 3.0rem;
     }
+
+    .about-section {
+      margin: 0 2rem;
+    }
 }
 
 @media (min-width:961px) { 
@@ -244,6 +259,10 @@ section {
 
     .welc-about1 {
       font-size: 3.0rem;
+    }
+
+    .about-section {
+      margin: 0 2.5rem;
     }
 }
 
@@ -290,6 +309,10 @@ section {
     .welc-about1 {
       font-size: 3.5rem;
     }
+
+    .about-section {
+      margin: 0 3rem;
+    }
 }
 
 @media (min-width:1281px) { 
@@ -334,6 +357,10 @@ section {
 
     .welc-about1 {
       font-size: 3.5rem;
+    }
+
+    .about-section {
+      margin: 0 3rem;
     }
 }
 
