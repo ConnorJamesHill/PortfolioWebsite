@@ -1226,6 +1226,8 @@ section {
 
   .project4-left {
     width: 60%;
+    justify-content: center;
+    align-items: center;
   }
 
   .project4-right {
