@@ -116,7 +116,7 @@ section {
   margin: 0 1rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 1rem;
+  grid-gap: .5rem;
 }
 
 @media (min-width:481px) {
