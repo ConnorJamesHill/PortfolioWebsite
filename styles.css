@@ -123,6 +123,7 @@ section {
 
 .welcome {
   padding: 4rem 2rem;
+  vertical-align: middle;
 }
 
 @media (min-width:481px) {
