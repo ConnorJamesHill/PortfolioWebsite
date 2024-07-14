@@ -769,10 +769,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .project-2-container {
@@ -780,10 +780,14 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
+    /* min-width: 51%;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    grid-gap: 0.5rem; */
   }
 
   .project-3-container {
@@ -791,10 +795,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .project-4-container {
@@ -813,10 +817,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .project-6-container {
@@ -824,10 +828,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p6p {
@@ -845,10 +849,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p7p {
@@ -866,10 +870,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p8p {
@@ -887,10 +891,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p9p {
@@ -908,10 +912,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p10p {
@@ -929,10 +933,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p11p {
@@ -950,10 +954,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p12p {
@@ -971,10 +975,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p13p {
@@ -992,10 +996,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p14p {
@@ -1013,10 +1017,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p15p {
@@ -1034,10 +1038,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 1rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p16p {
@@ -1055,10 +1059,10 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    min-width: 51%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 1rem;
+    min-width: 100%;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
   }
 
   .p17p {
@@ -1225,7 +1229,7 @@ section {
   }
 
   .project4-left {
-    width: 60%;
+    width: 100%;
     justify-content: center;
     align-items: center;
   }
