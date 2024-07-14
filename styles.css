@@ -21,8 +21,8 @@
   color: black;
   border-radius: 5px;
   box-sizing: border-box;
-  margin: 10px;
-  padding: 5px;
+  margin: 5px;
+  padding: 2.5px;
   min-height: 35px;
   min-width: 50px;
   justify-content: start;
@@ -148,6 +148,8 @@ section {
 
     .skills_skill {
       font-size: 0.95rem;
+      margin: 10px;
+      padding: 5px;
     }
 
     .about-button {
@@ -205,6 +207,8 @@ section {
 
     .skills_skill {
       font-size: 0.95rem;
+      margin: 10px;
+      padding: 5px;
     }
 
     .about-button {
@@ -262,6 +266,8 @@ section {
 
     .skills_skill {
       font-size: 0.95rem;
+      margin: 10px;
+      padding: 5px;
     }
 
     .about-button {
@@ -319,6 +325,8 @@ section {
 
     .skills_skill {
       font-size: 1rem;
+      margin: 10px;
+      padding: 5px;
     }
 
     .about-button {
@@ -376,6 +384,8 @@ section {
 
     .skills_skill {
       font-size: 1rem;
+      margin: 10px;
+      padding: 5px;
     }
 
     .about-button {
