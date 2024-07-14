@@ -123,7 +123,7 @@ section {
 }
 
 .about-section {
-  border-style: dashed;
+  width: 85%;
   margin: 0;
   padding-left: 0;
   padding-right: 0;
