@@ -1104,7 +1104,7 @@ section {
 
   .p4p {
     /* border: 2px solid black; */
-    height: 150px;
+    height: 100%;
     width: 100%;
     background-image: url('https://illustoon.com/photo/dl/11331.png');
     background-size: contain;
