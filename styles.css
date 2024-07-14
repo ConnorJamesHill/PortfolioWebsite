@@ -1117,6 +1117,8 @@ section {
 
   .abouts {
     margin: (10px, 0);
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .copyright {
