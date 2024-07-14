@@ -806,8 +806,6 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 0.5rem;
   }
 
   .project-5-container {
