@@ -803,7 +803,9 @@ section {
     align-items: center;
     min-height: 200px;
     min-width: 100%;
-    display: grid;
+    display: flex;
+    float:left;
+    flex-wrap: nowrap;
     grid-template-columns: 1fr 1fr;
     grid-gap: 0.5rem;
   }
