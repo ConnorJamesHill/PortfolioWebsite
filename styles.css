@@ -1832,3 +1832,7 @@ section {
   .project16-right {
     width: 100%;
   }
+
+  .paddingTopp {
+    padding-top: 15rem;
+  }
