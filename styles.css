@@ -1843,7 +1843,7 @@ section {
 
   .cancelLink {
     color:#000000;
-    text-decoration:none;
+    text-decoration:underline;
     justify-content: center;
     align-items: center;
     text-align: center;
