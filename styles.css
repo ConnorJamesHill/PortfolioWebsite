@@ -1597,6 +1597,7 @@ section {
     padding-top: 15rem;
     justify-content: center;
     align-items: center;
+    text-align: center;
   }
 
   .contact-button:hover {
@@ -1845,4 +1846,5 @@ section {
     text-decoration:none;
     justify-content: center;
     align-items: center;
+    text-align: center;
   }
