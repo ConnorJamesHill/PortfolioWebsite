@@ -104,6 +104,7 @@ section {
 
 .about1 {
   font-size: 2.25rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .aboutSizer {
@@ -138,6 +139,7 @@ section {
 
 .aboutSizer2 {
   font-size: 0.75rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 @media (min-width:481px) {
