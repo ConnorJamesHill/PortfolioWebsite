@@ -1835,4 +1835,5 @@ section {
 
   .paddingTopp {
     padding-top: 15rem;
+    display: block;
   }
