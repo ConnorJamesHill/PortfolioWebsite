@@ -1837,3 +1837,8 @@ section {
     padding-top: 15rem;
     display: block;
   }
+
+  .cancelLink {
+    color:#000000;
+    text-decoration:none;
+  }
