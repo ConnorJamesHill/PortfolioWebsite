@@ -1013,6 +1013,7 @@ section {
   }
 
   #welc-about {
+    letter-spacing: 1px;
     font-weight: 500;
     justify-content: center;
     text-align: center;
