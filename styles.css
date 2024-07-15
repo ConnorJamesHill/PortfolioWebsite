@@ -637,7 +637,7 @@ section {
     .contact-button {
       font-size: 1.2rem;
       min-width: 45%;
-      max-width: 60%;
+      max-width: 50%;
     }
 
     .about1 {
@@ -696,7 +696,8 @@ section {
 
     .contact-button {
       font-size: 1.2rem;
-      min-width: 70%;
+      min-width: 50%;
+      max-width: 45%;
     }
 
     .about1 {
