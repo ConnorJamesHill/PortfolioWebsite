@@ -512,7 +512,6 @@ section {
       width: 100%;
       justify-content: center;
       align-items: center;
-      flex-direction: space-around;
     }
   
     .project2-left {
@@ -1171,6 +1170,7 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    flex-direction: space-around;
     /* min-width: 51%;
     display: grid;
     grid-template-columns: 1fr 1fr;
