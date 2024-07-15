@@ -1159,6 +1159,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .project-2-container {
@@ -1170,7 +1172,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
-    flex-direction: space-around;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
     /* min-width: 51%;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -1186,6 +1189,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .project-4-container {
@@ -1197,6 +1202,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .project-5-container {
@@ -1208,6 +1215,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .project-6-container {
@@ -1219,6 +1228,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p6p {
@@ -1240,6 +1251,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p7p {
@@ -1261,6 +1274,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p8p {
@@ -1282,6 +1297,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p9p {
@@ -1303,6 +1320,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p10p {
@@ -1324,6 +1343,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p11p {
@@ -1345,6 +1366,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p12p {
@@ -1366,6 +1389,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p13p {
@@ -1383,8 +1408,8 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
     min-width: 100%;
     display: flex;
     float:left;
@@ -1410,6 +1435,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p15p {
@@ -1431,6 +1458,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p16p {
@@ -1452,6 +1481,8 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .p17p {
