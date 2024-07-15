@@ -1174,6 +1174,7 @@ section {
     flex-wrap: nowrap;
     padding-top: 2.5rem;
     padding-bottom: 5rem;
+    border: 2px solid rgba(65, 109, 243, 0.305);
     /* min-width: 51%;
     display: grid;
     grid-template-columns: 1fr 1fr;
