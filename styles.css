@@ -1841,4 +1841,5 @@ section {
   .cancelLink {
     color:#000000;
     text-decoration:none;
+    justify-content: center;
   }
