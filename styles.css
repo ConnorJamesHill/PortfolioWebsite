@@ -1172,7 +1172,7 @@ section {
     display: flex;
     float:left;
     flex-wrap: nowrap;
-    padding-top: 1rem;
+    padding-top: 2.5rem;
     padding-bottom: 5rem;
     /* min-width: 51%;
     display: grid;
