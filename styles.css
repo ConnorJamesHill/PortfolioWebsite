@@ -1380,6 +1380,8 @@ section {
     text-align: center;
     align-items: center;
     min-height: 200px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     min-width: 100%;
     display: flex;
     float:left;
