@@ -13,6 +13,7 @@
   align-items: center;
   line-height: 1.5;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 1px;
 }
 
 .skills_skill {
@@ -109,6 +110,7 @@ section {
 
 .aboutSizer {
   font-size: 0.95rem;
+  letter-spacing: 1px;
 }
 
 .welc-about1 {
@@ -140,6 +142,7 @@ section {
 .aboutSizer2 {
   font-size: 0.75rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 1px;
 }
 
 @media (min-width:481px) {
