@@ -112,7 +112,6 @@ section {
 .image {
   margin: 0;
   padding: 0;
-  border-style: solid;
   justify-content: center;
   align-items: center;
   display: flex;
