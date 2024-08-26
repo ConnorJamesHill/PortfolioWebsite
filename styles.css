@@ -1334,6 +1334,19 @@ section {
     border: 2px solid black;
   }
 
+  .projectBarz {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    min-width: 18.0rem;
+    max-width: 40rem;
+    height: .5rem;
+    background-color: rgba(65, 109, 243, 0.305);
+    margin: auto;
+    border: 2px solid black;
+  }
+
   .bar {
     align-items: center;
     justify-content: center;
