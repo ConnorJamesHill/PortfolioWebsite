@@ -1159,9 +1159,7 @@ section {
 }
 
 #imgContainer {
-  height: 50rem;
-  width: 100%;
-  display: flex;
+  padding-bottom: 1rem;
 }
 
   .ss {
