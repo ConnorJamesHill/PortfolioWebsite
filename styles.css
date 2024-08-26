@@ -196,6 +196,17 @@ section {
       border-radius: 50%;
      }
 
+     #welcome-section {
+      background-image: linear-gradient(to bottom, rgb(143, 171, 255), white);
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      min-height: 30rem;
+      max-height: 40rem;
+      padding-bottom: 10rem;
+    }
+
     .textLeft {
       font-size: 0.95rem;
     }
