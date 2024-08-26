@@ -1162,6 +1162,13 @@ section {
   padding-bottom: 3rem;
 }
 
+.button-container {
+  width: 100%;
+  padding-top: 1rem;
+  display: flex;
+  overflow: auto;
+}
+
   .ss {
     min-width: 10px;
     min-height: 10px;
