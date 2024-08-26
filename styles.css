@@ -2000,7 +2000,7 @@ section {
     float:left;
     min-width:25%;
     color: rgb(0, 0, 0);
-    background:rgba(65, 109, 243, 0.305);
+    background:rgb(65, 109, 243);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     list-style:none;
     height: 4rem;
