@@ -6,8 +6,6 @@
 
   .round-image { 
     padding-top: 7rem;
-    border-style: solid;
-    border-color: rgba(0, 0, 0, 0.41);
     height: 750px;
     width: 550px;
     border-radius: 50%;
