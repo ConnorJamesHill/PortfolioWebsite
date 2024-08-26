@@ -1150,6 +1150,14 @@ section {
     }
 }
 
+.paddingBottom {
+  padding-bottom: 5rem;
+}
+
+.paddingTop {
+  padding-top: 7.5rem;
+}
+
   .ss {
     min-width: 10px;
     min-height: 10px;
