@@ -1158,6 +1158,12 @@ section {
   padding-top: 7.5rem;
 }
 
+#imgContainer {
+  height: 50rem;
+  width: 100%;
+  display: flex;
+}
+
   .ss {
     min-width: 10px;
     min-height: 10px;
