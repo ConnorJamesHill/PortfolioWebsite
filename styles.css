@@ -13,6 +13,329 @@
   align-items: center;
   line-height: 1.5;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.textLeft {
+  font-weight: normal;
+  font-size: 0.95rem;
+  justify-content: left;
+  text-align: left;
+  line-height: 1.5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.skills_skill {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: black;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin: 10px;
+  padding: 5px;
+  min-height: 35px;
+  min-width: 50px;
+  justify-content: start;
+  align-items: center;
+  border: 2px solid black;
+  background-color: lightgray;
+}
+
+.about-button {
+  display: flex;
+  min-height: 70px;
+  max-height: 75px;
+  min-width: 30%;
+  max-width: 50%;
+  padding: .25rem auto;
+  margin-left: 1.5rem;
+  margin-right: auto;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: center;
+  transition-duration: 0.3s;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  white-space: nowrap;
+  border: 2px solid black;
+  color: white;
+  background-color: blue;
+  text-align: center;
+  border-radius: 7.5px;
+  font-size: 0.95rem;
+}
+
+.about-button1 {
+  display: flex;
+  min-height: 70px;
+  max-height: 75px;
+  min-width: 30%;
+  max-width: 50%;
+  padding: .25rem auto;
+  margin-left: 1.0rem;
+  margin-right: auto;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: center;
+  transition-duration: 0.3s;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  white-space: nowrap;
+  border: 2px solid black;
+  color: blue;
+  background-color: white;
+  text-align: center;
+  border-radius: 7.5px;
+  font-size: 0.95rem;
+}
+
+section {
+  display: block;
+  padding: 4rem 2rem;
+}
+
+.welc-about {
+  font-size: 1.05rem;
+}
+
+.footer-description {
+  font-size: 0.95;
+}
+
+.image {
+  margin: 0;
+  padding: 0;
+  border-style: solid;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  float: left;
+  flex-wrap: nowrap;
+  max-width: 30%;
+  max-height: 100%;
+}
+
+@media (min-width:481px) {
+   /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
+    .about3 {
+      font-size: 1.25rem;
+    }
+
+    .textLeft {
+      font-size: 0.95rem;
+    }
+
+    .skills_skill {
+      font-size: 0.95rem;
+    }
+
+    .about-button {
+      font-size: 0.95rem;
+      min-width: 30%;
+    }
+
+    .about-button1 {
+      font-size: 0.95rem;
+      min-width: 30%;
+    }
+
+    section {
+      padding: 4rem 2rem;
+    }
+
+    .welc-about {
+      font-size: 1.05rem;
+    }
+
+    .footer-description {
+      font-size: 0.95;
+    }
+
+    .image {
+      max-width: 32%;
+    }
+}
+
+@media (min-width:641px) {
+    /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+    #about3 {
+      font-size: 1.25rem;
+    }
+
+    .textLeft {
+      font-size: 0.95rem;
+    }
+
+    .skills_skill {
+      font-size: 0.95rem;
+    }
+
+    .about-button {
+      font-size: 0.95rem;
+      min-width: 35%;
+    }
+
+    .about-button1 {
+      font-size: 0.95rem;
+      min-width: 35%;
+    }
+
+    section {
+      padding: 4rem 2rem;
+    }
+
+    .welc-about {
+      font-size: 1.05rem;
+    }
+
+    .footer-description {
+      font-size: 0.95;
+    }
+
+    .image {
+      max-width: 32%;
+    }
+}
+
+@media (min-width:961px) { 
+    /* tablet, landscape iPad, lo-res laptops and desktops */ 
+    #about3 {
+      font-size: 1.5rem;
+    }
+
+    .textLeft {
+      font-size: 0.95rem;
+    }
+
+    .skills_skill {
+      font-size: 0.95rem;
+    }
+
+    .about-button {
+      font-size: 0.95rem;
+      min-width: 35%;
+    }
+
+    .about-button1 {
+      font-size: 0.95rem;
+      min-width: 35%;
+    }
+
+    section {
+      padding: 6rem 3rem;
+    }
+
+    .welc-about {
+      font-size: 1.05rem;
+    }
+
+    .footer-description {
+      font-size: 0.95;
+    }
+
+    .image {
+      max-width: 32%;
+    }
+}
+
+@media (min-width:1025px) {
+    /* big landscape tablets, laptops, and desktops */ 
+    .about3 {
+      font-size: 1.75rem;
+    }
+
+    .textLeft {
+      font-size: 1.2rem;
+    }
+
+    .skills_skill {
+      font-size: 1rem;
+    }
+
+    .about-button {
+      font-size: 1.2rem;
+      min-width: 45%;
+    }
+
+    .about-button1 {
+      font-size: 1.2rem;
+      min-width: 45%;
+    }
+
+    section {
+      padding: 8rem 5rem;
+    }
+
+    .welc-about {
+      font-size: 1.3rem;
+    }
+
+    .footer-description {
+      font-size: 1.2rem;
+    }
+
+    .image {
+      max-width: 32%;
+    }
+}
+
+@media (min-width:1281px) { 
+    /* hi-res laptops and desktops */ 
+    .about3 {
+      font-size: 1.75rem;
+    }
+
+    .textLeft {
+      font-size: 1.2rem;
+    }
+
+    .skills_skill {
+      font-size: 1rem;
+    }
+
+    .about-button {
+      font-size: 1.2rem;
+      min-width: 45%;
+    }
+
+    .about-button1 {
+      font-size: 1.2rem;
+      min-width: 45%;
+    }
+
+    section {
+      padding: 8rem 5rem;
+    }
+
+    .welc-about {
+      font-size: 1.3rem;
+    }
+
+    .footer-description {
+      font-size: 1.2rem;
+    }
+
+    .image {
+      max-width: 32%;
+    }
+}
+
+  /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
+.about3 {
+  font-size: 1.25rem;
+  font-weight: strong;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: 1px;
 }
 
