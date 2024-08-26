@@ -62,7 +62,7 @@
   white-space: nowrap;
   border: 2px solid black;
   color: white;
-  background-color: blue;
+  background-color: rgb(143, 171, 255);
   text-align: center;
   border-radius: 7.5px;
   font-size: 0.95rem;
@@ -89,7 +89,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   white-space: nowrap;
   border: 2px solid black;
-  color: blue;
+  color: rgb(143, 171, 255);
   background-color: white;
   text-align: center;
   border-radius: 7.5px;
@@ -377,7 +377,7 @@ section {
   white-space: nowrap;
   border: 2px solid black;
   color: white;
-  background-color: blue;
+  background-color: rgb(143, 171, 255);
   text-align: center;
   border-radius: 7.5px;
   font-size: 0.75rem;
@@ -405,7 +405,7 @@ section {
   white-space: nowrap;
   border: 2px solid black;
   color: white;
-  background-color: blue;
+  background-color: rgb(143, 171, 255);
   text-align: center;
   border-radius: 7.5px;
   font-size: 0.75rem;
@@ -1247,7 +1247,7 @@ section {
     white-space: nowrap;
     border: 2px solid black;
     color: white;
-    background-color: blue;;
+    background-color: rgb(143, 171, 255);
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
@@ -1304,7 +1304,7 @@ section {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border: 2px solid black;
     color: white;
-    background-color: blue;
+    background-color: rgb(143, 171, 255);
     border-radius: 7.5px;
     text-align: center;
     font-size: 1.2rem;
