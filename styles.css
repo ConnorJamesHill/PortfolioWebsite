@@ -4,6 +4,12 @@
     }
   }
 
+  .round-image { 
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+   }
+
   /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
 .about3 {
   font-size: 1.25rem;
