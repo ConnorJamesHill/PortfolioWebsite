@@ -339,6 +339,21 @@ section {
 
 @media (min-width:1281px) { 
     /* hi-res laptops and desktops */ 
+
+    .image {
+      margin: 0;
+      padding-bottom: 1.5rem;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      justify-content: space-between;
+      align-items: center;
+      display: flex;
+      float: left;
+      flex-wrap: nowrap;
+      max-width: 30%;
+      max-height: 50%;
+    }
+
     .about3 {
       font-size: 1.75rem;
     }
