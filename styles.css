@@ -548,8 +548,8 @@ section {
   .image {
     margin: 0;
     padding-bottom: 1.5rem;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
     justify-content: space-between;
     align-items: center;
     display: flex;
@@ -564,8 +564,24 @@ section {
   .image {
     margin: 0;
     padding-bottom: 1.5rem;
-    padding-left: 1.75rem;
-    padding-right: 1.75rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    float: left;
+    flex-wrap: nowrap;
+    max-width: 30%;
+    max-height: 50%;
+  }
+}
+
+@media (min-width:1700px) {
+  .image {
+    margin: 0;
+    padding-bottom: 1.5rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
     justify-content: space-between;
     align-items: center;
     display: flex;
