@@ -125,7 +125,8 @@ section {
 
 .image {
   margin: 0;
-  padding-bottom: 1.5rem;
+  padding-top: .25rem;
+  padding-bottom: 1.75rem;
   justify-content: space-between;
   align-items: center;
   display: flex;
@@ -531,7 +532,8 @@ section {
 @media (min-width:1350px) {
   .image {
     margin: 0;
-    padding-bottom: 1.5rem;
+    padding-top: .25rem;
+    padding-bottom: 1.75rem;
     padding-left: 1rem;
     padding-right: 1rem;
     justify-content: space-between;
@@ -547,7 +549,8 @@ section {
 @media (min-width:1500px) {
   .image {
     margin: 0;
-    padding-bottom: 1.5rem;
+    padding-top: .25rem;
+    padding-bottom: 1.75rem;
     padding-left: 2rem;
     padding-right: 2rem;
     justify-content: space-between;
@@ -563,7 +566,8 @@ section {
 @media (min-width:1600px) {
   .image {
     margin: 0;
-    padding-bottom: 1.5rem;
+    padding-top: .25rem;
+    padding-bottom: 1.75rem;
     padding-left: 3rem;
     padding-right: 3rem;
     justify-content: space-between;
