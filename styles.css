@@ -125,7 +125,9 @@ section {
 
 .image {
   margin: 0;
-  padding-bottom: 1rem;
+  padding-bottom: 1.5rem;
+  padding-left: .5rem;
+  padding-right: .5rem;
   justify-content: space-between;
   align-items: center;
   display: flex;
