@@ -1208,6 +1208,11 @@ section {
     }
 }
 
+.skills-container {
+  display: flex;
+  justify-content: space-around;
+}
+
 .paddingBottom {
   padding-bottom: 7.5rem;
 }
