@@ -133,8 +133,8 @@ section {
   display: flex;
   float: left;
   flex-wrap: nowrap;
-  max-width: 15%;
-  max-height: 20%;
+  max-width: 30%;
+  max-height: 50%;
 }
 
 @media (min-width:481px) {
