@@ -134,7 +134,7 @@ section {
   float: left;
   flex-wrap: nowrap;
   max-width: 15%;
-  max-height: 45%;
+  max-height: 20%;
 }
 
 @media (min-width:481px) {
