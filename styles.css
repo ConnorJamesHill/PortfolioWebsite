@@ -126,12 +126,12 @@ section {
 .image {
   margin: 0;
   padding: 0;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   display: flex;
   float: left;
   flex-wrap: nowrap;
-  max-width: 30%;
+  max-width: 20%;
   max-height: 50%;
 }
 
