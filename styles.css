@@ -528,12 +528,44 @@ section {
   letter-spacing: 1px;
 }
 
-@media (min-width:1400px) {
+@media (min-width:1350px) {
   .image {
     margin: 0;
     padding-bottom: 1.5rem;
     padding-left: 1rem;
     padding-right: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    float: left;
+    flex-wrap: nowrap;
+    max-width: 30%;
+    max-height: 50%;
+  }
+}
+
+@media (min-width:1500px) {
+  .image {
+    margin: 0;
+    padding-bottom: 1.5rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    float: left;
+    flex-wrap: nowrap;
+    max-width: 30%;
+    max-height: 50%;
+  }
+}
+
+@media (min-width:1600px) {
+  .image {
+    margin: 0;
+    padding-bottom: 1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
     justify-content: space-between;
     align-items: center;
     display: flex;
