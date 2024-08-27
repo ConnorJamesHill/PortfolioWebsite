@@ -133,7 +133,7 @@ section {
   display: flex;
   float: left;
   flex-wrap: nowrap;
-  max-width: 20%;
+  max-width: 15%;
   max-height: 50%;
 }
 
