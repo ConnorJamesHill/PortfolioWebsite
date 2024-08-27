@@ -1211,6 +1211,7 @@ section {
 .skills-container {
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 
 .paddingBottom {
