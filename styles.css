@@ -4,6 +4,11 @@
     }
   }
 
+  .roundeddd {
+    border-radius: 22px;
+    overflow: hidden; /* important for some browsers */
+  }
+
   .round-image { 
     padding-top: 7rem;
     height: 100px;
