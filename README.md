@@ -27,7 +27,7 @@ To view my portfolio website, simply visit (https://connorjhill.netlify.app/)).
 
 If you want to run the website locally for development or customization, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/portfolio.git`
+1. Clone this repository: `git clone https://github.com/ConnorJamesHill/portfolio.git`
 2. Navigate to the project directory: `cd portfolio`
 3. Open the `index.html` file in your preferred web browser.
 
