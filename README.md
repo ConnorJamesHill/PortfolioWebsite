@@ -23,7 +23,7 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## Getting Started
 
-To view my portfolio website, simply visit [https://your-username.github.io/portfolio](https://your-username.github.io/portfolio).
+To view my portfolio website, simply visit [[https://your-username.github.io/portfolio](https://connorjhill.netlify.app/)]([https://your-username.github.io/portfolio](https://connorjhill.netlify.app/)).
 
 If you want to run the website locally for development or customization, follow these steps:
 
