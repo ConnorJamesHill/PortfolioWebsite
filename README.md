@@ -23,7 +23,7 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## Getting Started
 
-To view my portfolio website, simply visit [[https://your-username.github.io/portfolio](https://connorjhill.netlify.app/)]([https://your-username.github.io/portfolio](https://connorjhill.netlify.app/)).
+To view my portfolio website, simply visit (https://connorjhill.netlify.app/)).
 
 If you want to run the website locally for development or customization, follow these steps:
 
@@ -48,4 +48,4 @@ Feel free to explore and modify the code for wahtever you want!
 
 ---
 
-Thank you for visiting my portfolio repository! If you have any questions or would like to get in touch, feel free to contact me at Cj.hill@setonhill.edu
+Thank you for visiting my portfolio repository! If you have any questions or would like to get in touch, feel free to contact me at JamesConnorHill@gmail.com
